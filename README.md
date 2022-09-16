@@ -93,4 +93,4 @@ plot(as.dendrogram(hc4),horiz=TRUE)
 ```
 
 >References
-This source of code is from ***https://uc-r.github.io/hc_clustering*** with different my school assignment dataset
+This source of code is from ***https://uc-r.github.io/hc_clustering*** with different data by using my school assignment dataset
