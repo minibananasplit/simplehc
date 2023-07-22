@@ -1,4 +1,4 @@
-*This code is tested and run under the **R environment***
+*This code is tested and worked under the **R environment***
 
 **Simple Hierarchical Cluster Analysis**
 
