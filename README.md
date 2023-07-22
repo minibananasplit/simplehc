@@ -1,6 +1,6 @@
 *This code is tested and worked under the **R environment***
 
-**Simple Hierarchical Cluster Analysis**
+# Simple Hierarchical Cluster Analysis
 
 > Import Packages
 
